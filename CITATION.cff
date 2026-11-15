@@ -5,7 +5,7 @@ type: software
 authors:
   - name: OpenFinance
     website: https://openfinance.tech
-repository-code: https://github.com/rc-dran/self-hosted-perp-dex
+repository-code: https://github.com/openfinance-tech/self-hosted-perp-dex
 url: https://openfinance.tech/agents/self-hosted-perp-dex
 abstract: >-
   Self-hosted trading terminal for Hyperliquid perpetuals with an AI agent

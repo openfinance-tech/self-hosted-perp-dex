@@ -83,7 +83,7 @@ No code at all. OpenFinance builds the app for you and ships it to your own Verc
 
 ### Deploy with Vercel
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Frc-dran%2Fself-hosted-perp-dex&project-name=self-hosted-perp-dex&repository-name=self-hosted-perp-dex)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fopenfinance-tech%2Fself-hosted-perp-dex&project-name=self-hosted-perp-dex&repository-name=self-hosted-perp-dex)
 
 This repo's exact code, live in about a minute. There are no environment variables to set.
 
@@ -92,7 +92,7 @@ This repo's exact code, live in about a minute. There are no environment variabl
 Clone the repo:
 
 ```bash
-git clone https://github.com/rc-dran/self-hosted-perp-dex.git
+git clone https://github.com/openfinance-tech/self-hosted-perp-dex.git
 ```
 
 Install and start it:
